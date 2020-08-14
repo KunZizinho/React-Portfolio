@@ -3,7 +3,6 @@ import NavBar from './components/NavBar';
 import Bar from './components/Bar';
 import Homepage from './components/Homepage';
 import Contact from './components/Contact';
-// import Development from './components/Development';
 import './style.css';
 
 function App() {
@@ -12,7 +11,7 @@ function App() {
       <NavBar />,
       <Homepage />,
       <Bar />,
-      <Contact />
+      <Contact />,
 
     </div>
   );
