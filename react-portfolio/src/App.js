@@ -1,12 +1,18 @@
 import React from 'react';
-import Wrapper from './components/Wrapper'
-import './App.css';
+import NavBar from './components/NavBar';
+import Bar from './components/Bar';
+import Homepage from './components/Homepage';
+import Contact from './components/Contact';
+// import Development from './components/Development';
+import './style.css';
 
 function App() {
   return (
-    <div className="App">
-
-      <Wrapper />
+    <div className="jumbotron-fluid" style={{maxWidth: '100%', boxSizing:'border-box' }}>
+      <NavBar />,
+      <Homepage />,
+      <Bar />,
+      <Contact />
 
     </div>
   );
