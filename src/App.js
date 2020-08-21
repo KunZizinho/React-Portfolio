@@ -3,6 +3,7 @@ import NavBar from './components/NavBar';
 import Bar from './components/Bar';
 import Homepage from './components/Homepage';
 import Contact from './components/Contact';
+import ProjectLayouts from './components/ProjectLayouts'
 import './style.css';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <NavBar />,
       <Homepage />,
       <Bar />,
+      <ProjectLayouts />,
       <Contact />,
 
     </div>
