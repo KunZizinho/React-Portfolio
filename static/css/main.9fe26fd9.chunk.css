@@ -1,0 +1,2 @@
+li,ul{list-style:none;margin:0;padding:0}ul{width:fit;display:flex;flex-direction:column;background:#fff;border-radius:15px}li,ul{padding:20px}li{background-color:hsla(0,0%,83.9%,.5);border-radius:10px;margin-bottom:20px;overflow:hidden;cursor:pointer}li:last-child{margin-bottom:0}.avatar{width:40px;height:40px;background-color:#666;border-radius:20px}
+/*# sourceMappingURL=main.9fe26fd9.chunk.css.map */
