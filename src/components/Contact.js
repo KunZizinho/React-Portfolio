@@ -11,7 +11,7 @@ class Contact extends React.Component {
   
   render() {
    return(
-     <div className="contact" style={{width:'50%', backgroundImage:'linear-gradient(lightgray, white)', position: 'relative', bottom:'-30px',height:'98%', marginLeft:'450px', alignSelf:'center', borderRadius:'15px', padding:'7px', boxShadow:'10px 10px 10px 10px', zIndex:'4px'}}>
+     <div className="contact" style={{width:'50%', backgroundImage:'linear-gradient(lightgray, white)', position: 'relative', bottom:'-30px',height:'98%', marginLeft:'350px', borderRadius:'15px', padding:'17px', boxShadow:'10px 10px 10px 10px', zIndex:'4px'}}>
      <form id="contact" onSubmit={this.handleSubmit.bind(this)} method="POST">
       <div className="form-group">
           <label htmlFor="name">Name</label>
