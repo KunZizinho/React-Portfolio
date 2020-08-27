@@ -23,6 +23,27 @@ function Homepage() {
                         I applied aspects of UX and agile development in a recent project where I worked to develop a professional business website for a local Dental office. Excited to leverage skills in the future as part of a fast-paced, quality-driven team in order to build better experiences on the web. 
                         </p>
                         <br></br>
+                        <p style={{fontFamily:'Satisfy', textAlign:'center',fontSize:'26px',fontWeight:'bold'}}>
+                            References
+                        </p>
+                        <br></br>
+                        <p style={{fontFamily:'Satisfy', fontSize:'21px'}}>Mike Navarro - Networking Engineer, PCS
+Known for approx 1 year, working together in PCS
+(201)-320-6159</p>
+                        <br></br>
+                        <p style={{fontFamily:'Satisfy', fontSize:'21px'}}>Chris Clementi - Networking Engineer, Hunter Technology
+Known for approx 8 mos, working together in Hunter Technologies - Union Board of Edu.
+(973)-289-3908
+</p>                
+                        <br></br>
+                        <p style={{fontFamily:'Satisfy', fontSize:'21px'}}>Donna Fimiani - General Manager and Direct Supervisor, Buona Sera Restaurant
+Known for approx 1 year, working together as management team
+(908)-330-1342
+</p>                   <br></br>
+<p style={{fontFamily:'Satisfy', fontSize:'21px'}}>Vanessa Roman - Social Media and Marketing Director Bayville Dental Arts
+Known for over 1 year, working together on website developing/ads/social media maint.
+(732)-299-4466
+</p><br></br>
                     
                     </section>
 
@@ -31,14 +52,31 @@ function Homepage() {
             <article className='article' style={{width:'47%', backgroundImage:'linear-gradient(lightgray, white)', position: 'relative', bottom:'-30px',height:'98%', boxShadow:'-25px 25px 25px 10px', float:'left'}}>
                     <section style={{backgroundImage:'linear-gradient(lightgray, white)',marginRight:'5px',marginLeft:'5px',
                     padding:'6px', minWidth:'500px',fontSize:'16px', maxHeight:'850px', position:'relative', zIndex:'4px', overflow:'visible'}}>
-                        <h4 style={{textAlign:'center', fontFamily:'Dancing Script', fontSize:'30px', fontWeight:'bold'}}>Things you will fing on my portfolio</h4>
+                        <h4 style={{textAlign:'center', fontFamily:'Dancing Script', fontSize:'30px', fontWeight:'bold'}}>Reasume</h4>
                         <br></br>
-                        <p style={{fontFamily:'Satisfy', fontSize:'20px', marginLeft:'5px', marginRight:'5px'}}>
-                        Contrary to popular belief, Lorem Ipsum is not just a random text, but has its roots in classical Latin literature from the year 45 BC, which means that it is over 2000 years old. Richard McClintock, a professor of Latin at Hampden-Sydney College in Virginia, searched for one of the strangest Latin words, consectetur, from the Lorem Ipsum text, and going through quotations of that word in classical literature, discovered an undoubted source. Lorem Ipsum comes from paragraphs 1.10.32 and 1.10.33 of Cicero's work entitled "de Finibus Bonorum et Malorum" (Extremes of Good and Evil), written in 45 BC This work is a treatise on the theory of ethics, and was very popular in the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet ..", comes from paragraph 1.10.32.
-                        </p><br></br>
+                        <p style={{fontFamily:'Satisfy', fontSize:'25px', marginLeft:'5px', marginRight:'5px'}}>28 Victoria Circle Jackson, NJ Phone: 732-804-7717
+Email: mario.kozic@protonmail.com
+Computer Help Desk, Field Technician and Full stack web developer ~ Customer Service Expertise</p><br></br>
+<p style={{fontFamily:'Satisfy', fontSize:'25px', marginLeft:'5px', marginRight:'5px'}}><b>Skills</b></p><br></br>
                         <p style={{fontFamily:'Satisfy', fontSize:'20px'}}>
-                        For those interested, a standard section of Lorem Ipsum used since the 16th century can be found below on this page. Parts 1.10.32 and 1.10.33 from the work "de Finibus Bonorum et Malorum" were literally transferred from the original, accompanied by an English translation by H. Rackham from 1914.
-                        </p>
+                        - CompTIA A+ certified; CompTIA Network+, Server+, and Security+ certified<br></br>
+- Network administration; advanced configurations<br></br>
+- Installing Windows operating systems and supporting Windows servers<br></br>
+- Installing VOIP phone systems<br></br>
+- Printer set-ups, troubleshooting, and maintenance<br></br>
+- Virus/malware/spyware detection and removal<br></br>
+- TCP/IP; internet and intranet protocols<br></br>
+- Software/hardware installations, upgrades, and repairs<br></br>
+- PC/lap-top/installations, troubleshooting, diagnostics, maintenance, and repairs<br></br>
+- Experience with hardware & software: Apple devices iMacs, Macbooks, ipads<br></br>
+- Assisted networking infrastructure changes (replacing Cisco switches with Extreme)<br></br>
+- Experience with active directory and jamf pro<br></br>
+- Consistent superior Customer Service resulting in a high level of customer satisfaction<br></br>
+- Effective individually, as a team leader, or as a contributing team member<br></br>
+- Staff direction and supervision; trains new hires in company policies and procedures<br></br>
+- Developed skils in React.js, Bootstrap, API's, Node.js, MonhoDB, mongoose, MySQL, Heroku, Express.js and JQuery<br></br>
+- Fluent in both English and Croatian</p>
+<p style={{fontFamily:'Satisfy', fontSize:'20px'}}></p>
                     </section>
 
             </article>
